@@ -1,0 +1,1 @@
+{"version":3,"file":"CorreioEletronico.d.ts","sourceRoot":"","sources":["../../src/modelos/CorreioEletronico.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,SAAS,EAAE,MAAM,wBAAwB,CAAC;AACxD,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,eAAe,CAAC;AAGjD,qBAAa,iBAAkB,YAAW,SAAS;IAC/C,MAAM,CAAC,WAAW,EAAE,WAAW,EAAE,KAAK,EAAE,MAAM,GAAG,IAAI,CAEpD;CACJ"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"AlertaApp.d.ts","sourceRoot":"","sources":["../../src/modelos/AlertaApp.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,SAAS,EAAE,MAAM,wBAAwB,CAAC;AACxD,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,eAAe,CAAC;AAGjD,qBAAa,SAAU,YAAW,SAAS;IACvC,MAAM,CAAC,WAAW,EAAE,WAAW,EAAE,KAAK,EAAE,MAAM,GAAG,IAAI,CAEpD;CACJ"}

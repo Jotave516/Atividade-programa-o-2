@@ -1,0 +1,1 @@
+{"version":3,"file":"CorreioEletronico.js","sourceRoot":"","sources":["../../src/modelos/CorreioEletronico.ts"],"names":[],"mappings":";;;AAGA,mEAAmE;AACnE;IACI,MAAM,CAAC,WAAwB,EAAE,KAAa;QAC1C,OAAO,CAAC,GAAG,CAAC,2BAA2B,WAAW,CAAC,OAAO,KAAK,KAAK,EAAE,CAAC,CAAC;IAC5E,CAAC;CACJ"}
